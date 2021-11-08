@@ -59,6 +59,29 @@ main {
     padding: .5rem;
 }
 
+@media screen and (max-width: 991px) {
+    #root {
+        padding: 5rem 0;
+    }
+    main {
+        display: block;
+    }
+    .img-width {
+        width: 400px;
+    }
+    header .nav-brand {
+        justify-content: start;
+    }
+    main .article-one {
+        padding-bottom: 0.5rem !important;
+    }
+    body:not(.whatwedo) .nav-brand,
+    body:not(.maintainable) .nav-brand,
+    body:not(.getintouch) .nav-brand {
+        display: none;
+    }
+}
+
 main .article-one {
     width: 100%;
     padding-bottom: 3rem;

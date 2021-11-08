@@ -3,17 +3,20 @@
     "logo": "images/logo/logo-final.png",
     "home": [
         {
-            "images": "images/front/front-what-we-do.png",
+            "desktopImages": "images/desktop/front-what-we-do.png",
+            "mobileImages": "images/mobile/weba-2-mobil-whatwedo.png",
             "key": "whatwedo",
             "class": ""
         },
         {
-            "images": "images/front/front-maintainable.png",
+            "desktopImages": "images/desktop/front-maintainable.png",
+            "mobileImages": "images/mobile/weba-3-mobil-maintainable.png",
             "key": "maintainable",
             "class": "mx-3"
         },
         {
-            "images": "images/front/front-get-in-touch.png",
+            "desktopImages": "images/desktop/front-get-in-touch.png",
+            "mobileImages": "images/mobile/weba-mobil.getintouch.png",
             "key": "getintouch",
             "class": "",
             "overflowtext": "And yet... more to come"
@@ -21,7 +24,8 @@
     ],
     "whatwedo": [
         {
-            "images": "images/front/front-what-we-do-link.png",
+            "desktopImages": "images/desktop/front-what-we-do-link.png",
+            "mobileImages": "images/mobile/weba-2-mobil-whatwedo.png",
             "title": "Design is the",
             "span": " matter of choise",
             "dots": " ...",
@@ -39,7 +43,8 @@
     ],
     "maintainable": [
         {
-            "images": "images/front/front-maintainable-link.png",
+            "desktopImages": "images/desktop/front-maintainable-link.png",
+            "mobileImages": "images/mobile/weba-3-mobil-maintainable.png",
             "title": "Keeping your all",
             "span": " upto date",
             "dots": " ...",
@@ -57,7 +62,8 @@
     ],
     "getintouch": [
         {
-            "images": "images/front/front-getintouch-link.png",
+            "desktopImages": "images/desktop/front-getintouch-link.png",
+            "mobileImages": "images/mobile/weba-mobil.getintouch.png",
             "title": "There for you and",
             "span": " care for you",
             "dots": " ...",
