@@ -1,0 +1,101 @@
+{
+    "title": "NUÖ",
+    "logo": "images/logo/logo-final.png",
+    "home": [
+        {
+            "images": "images/front/front-what-we-do.png",
+            "key": "whatwedo",
+            "class": ""
+        },
+        {
+            "images": "images/front/front-maintainable.png",
+            "key": "maintainable",
+            "class": "mx-3"
+        },
+        {
+            "images": "images/front/front-get-in-touch.png",
+            "key": "getintouch",
+            "class": "",
+            "overflowtext": "And yet... more to come"
+        }
+    ],
+    "whatwedo": [
+        {
+            "images": "images/front/front-what-we-do-link.png",
+            "title": "Design is the",
+            "span": " matter of choise",
+            "dots": " ...",
+            "text": "But i must explain to you how all this mistaken idea of denauncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but becuase those who do not know how to pursue pleasure rationally encounter consequences that are.",
+            "text2": "But i must explain to you how all this mistaken idea of denauncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but becuase those who do not know how to pursue pleasure rationally encounter consequences that are.",
+            "text3": "becuase those who do not know how to pursue pleasure rationally encounter consequences that are.",
+            "logo1": "",
+            "logotext1": "",
+            "logo2": "",
+            "logotext2": "",
+            "logo3": "",
+            "logotext3": "",
+            "overflowtext": "WhatWeDo"
+        }
+    ],
+    "maintainable": [
+        {
+            "images": "images/front/front-maintainable-link.png",
+            "title": "Keeping your all",
+            "span": " upto date",
+            "dots": " ...",
+            "text": "But i must explain to you how all this mistaken idea of denauncing",
+            "text2": " pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but becuase those who do not know how to pursue pleasure rationally encounter consequences that are.",
+            "text3": "But i must explain to you how all this mistaken idea of denauncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.",
+            "logo1": "",
+            "logotext1": "",
+            "logo2": "",
+            "logotext2": "",
+            "logo3": "",
+            "logotext3": "",
+            "overflowtext": "MaintainAble"
+        }
+    ],
+    "getintouch": [
+        {
+            "images": "images/front/front-getintouch-link.png",
+            "title": "There for you and",
+            "span": " care for you",
+            "dots": " ...",
+            "text": "But i must explain to you how all this mistaken idea of denauncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but becuase those who do not know how to pursue pleasure rationally encounter consequences that are.",
+            "text2": "But i must explain to you how all this mistaken idea of denauncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.",
+            "logo1": "images/whatwedo-small.png",
+            "logotext1": "tr@coolfish.com",
+            "logo2": "images/maintainable-small.png",
+            "logotext2": "pr@coolfish.com",
+            "logo3": "images/getintouch-small.png",
+            "logotext3": "mn@coolfish.com",
+            "overflowtext": "GetInTouch"
+        }
+    ],
+    "navigation": [
+        {
+            "id": 1,
+            "title": "WhatWeDo",
+            "images": "images/navigation/nav-1.png",
+            "images_under": "images/navigation/nav-1-where.png",
+            "link": "whatwedo",
+            "class": "ms-2"
+        },
+        {
+            "id": 2,
+            "title": "MaintainAble",
+            "images": "images/navigation/nav-2.png",
+            "images_under": "images/navigation/nav-2-where.png",
+            "link": "maintainable",
+            "class": "mx-2"
+        },
+        {
+            "id": 3,
+            "title": "GetInTouch",
+            "images": "images/navigation/nav-3.png",
+            "images_under": "images/navigation/nav-3-where.png",
+            "link": "getintouch",
+            "class": "me-2"
+        }
+    ]
+}
