@@ -8,5 +8,4 @@
 
 4. Derefter skriv "npm start"
 
-Mvh Marcus Kjær Eriksen
-React Opgave
+Mvh Marcus Kjær Eriksen - React Opgave
