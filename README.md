@@ -7,3 +7,6 @@
 3. Skriv "npm i"
 
 4. Derefter skriv "npm start"
+
+Mvh Marcus Kjær Eriksen
+React Opgave
